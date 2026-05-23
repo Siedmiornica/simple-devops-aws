@@ -1,0 +1,8 @@
+# Klucze SSH
+*.pem
+
+# AWS credentials
+.aws/
+
+# Node modules
+node_modules/
