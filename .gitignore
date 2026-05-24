@@ -6,3 +6,6 @@
 
 # Node modules
 node_modules/
+
+# Notatki Kiro (progress, kontekst sesji)
+.kiro/
